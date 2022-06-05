@@ -1,0 +1,45 @@
+.gallery-header {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: #F2C2C2;
+    opacity: 80%;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.5);
+    height: 100px;
+  }
+  
+  .gallery-container {
+    background: white;
+    height: 100%;
+    padding: 20px;
+    cursor:default;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow-x: auto;
+  }
+  
+  .modalImage{
+    width: auto;
+    max-height: 600px;
+  }
+
+  .galleryImage{
+    overflow: hidden;
+  }
+
+
+  .galleryImage:hover{
+    transition: .5s ease;
+    opacity: 0.9;
+  }
+
+  @media screen and (max-width: 960px) {
+    .modalImage{
+      width: auto;
+      max-height: 500px;
+      max-width: 350px;
+    }
+  }
+
