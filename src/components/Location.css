@@ -6,7 +6,6 @@
     opacity: 80%;
     color: white;
     height: 100px;
-    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.5);
   }
 
   .location-container {
