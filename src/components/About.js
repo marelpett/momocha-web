@@ -10,7 +10,7 @@ function About() {
         <div className='about-container'>
 
             <div className='about-img'>
-                <img alt = "store" src='images/store.jpeg'/>  
+                <img alt = "store" src='images/store.jpg'/>  
             </div>
 
             <div className='text'>
