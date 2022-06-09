@@ -95,7 +95,7 @@ function handleOpen(e){
                 >
                   <Fade in={open}>
                 <Box sx = {style}>
-                  <img alt ={item.title}className = "modalImage" src = {image}/>
+                  <img loading="lazy" alt ={item.title}className = "modalImage" src = {image}/>
                 </Box>
                 </Fade>
               </Modal>

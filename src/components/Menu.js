@@ -7,7 +7,7 @@ function Menu(index) {
   function renderDrinks(item, index){
     return(
       <div key = {index} className='menu-item'>
-        <img alt = {item.title} className="product-img" src={item.imgsrc}/>
+        <img loading="lazy" alt = {item.title} className="product-img" src={item.imgsrc}/>
         <div className='product-title'>{item.title}</div>
         <div className='product-text'>{item.ingredients}</div>
         <div className='product-price'>{item.price}</div>
