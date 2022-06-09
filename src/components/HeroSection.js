@@ -5,7 +5,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <img className='hero-img' src='/images/background.png' alt='Background'/>
+      <img className='hero-img' src='/images/background.jpeg' alt='Background'/>
     </div>
   );
 }
