@@ -32,11 +32,11 @@ function Location() {
                 <p className='bold'>OPENING HOURS</p>
                 <p className='rectangle'></p>
                 <ul className = "open">
-                <li>Mon // 12-18</li>
-                <li>Tue // 12-18</li>
-                <li>Wed // 12-18</li>
-                <li>Thu // 12-18</li>
-                <li>Fri // 12-19</li>
+                <li>Mon // 11-19</li>
+                <li>Tue // 11-19</li>
+                <li>Wed // 11-19</li>
+                <li>Thu // 11-19</li>
+                <li>Fri // 11-19</li>
                 <li>Sat // 11-19</li>
                 <li>Sun // 11-19</li>
                 </ul>
