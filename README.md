@@ -1,6 +1,6 @@
 # 🧋 MoMoCha Website
 
-Hello! This is a responsive landing page I built for the bubble tea café MoMoCha in 202, using React. The goal was to: 
+Hello! This is a responsive landing page I built for the bubble tea café MoMoCha in 2022, using React. The goal was to: 
 
 - Capture the cute and playful atmosphere of the café
 - Make the menu visually appealing
